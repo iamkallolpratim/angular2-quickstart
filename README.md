@@ -7,6 +7,6 @@ Install the npm packages described in the `package.json` and verify that it work
 $ npm install
 $ npm start
 ```
-Go to browswe and and enter ```bash localhost:3000 ```
+Go to browswe and and enter ```localhost:3000 ```
 
 
